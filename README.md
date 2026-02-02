@@ -2,4 +2,4 @@ O Postman é uma ferramenta popular utilizada por desenvolvedores para testar AP
 
 > Para mais informações sobre esse API Client acesse: [https://www.postman.com/product/what-is-postman/](https://www.postman.com/product/what-is-postman/)
 
-Para facilitar sua integração, oferecemos uma colletion com as principais chamadas da nossa API. Basta inserir suas credenciais e começar a testar as funcionalidades em nosso e-Commerce PayStore.
+Para facilitar sua integração, oferecemos uma colletion com as principais chamadas da nossa API. Basta inserir suas credenciais no arquivo de variáveis de ambiente e começar a testar as funcionalidades em nosso e-Commerce PayStore.
